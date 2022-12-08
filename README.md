@@ -13,7 +13,6 @@
   <img align="center" alt="Sammy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sammy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Sammy-pic" height="150" style="border-radius:50px;" 
-   src="https://discordapp.com/channels/@me/1050238484595613819/1050247827651051621/Publicacoes_Instagram_1_1.png?width=676&height=676em">
 </div>
   
   ##
